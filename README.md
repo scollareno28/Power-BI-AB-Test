@@ -2,4 +2,4 @@ The purpose of this AB testing was conducted in order to understand the capabili
 
 DAX queries created the statistical formulas for finding all of the values needed to reject or fail to reject the null hypothesis. 
 
-This repository also includes the powerpoint presentation that was used to present this project.  
+This repository also includes the datasets that were used to create this project.   
